@@ -45,6 +45,12 @@ img {
     max-height: 790px;
 }
 
+video {
+    margin: 5px;
+    border: solid 5px darkcyan;
+    border-radius: 20px;
+}
+
 .content {
     text-align: center;
     margin: auto;
