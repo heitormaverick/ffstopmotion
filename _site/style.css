@@ -51,6 +51,16 @@ video {
     border-radius: 20px;
 }
 
+a {
+    color: gainsboro;
+    margin: 0px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
 .content {
     text-align: center;
     margin: auto;
